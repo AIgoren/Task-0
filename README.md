@@ -22,3 +22,6 @@
 <p>for i in range(30):
 <p>    if arr[i] < 0 and arr[i+1] < 0:
 <p>        print("Couples of odd numbers:",arr[i], arr[i+1], "\n")
+  
+  
+<h1>Робота Андрійчука Ігора<!h1>
